@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pranie tapicerki - Auto kosmetyka , Myjnia Ręczna",
+    "address": "ul.Ignacego Matuszewskiego 11",
+    "city": "Gdańsk",
+    "postalCode": "80-288",
+    "latitude": 54.36122119026317,
+    "longitude": 18.583226486860436
+  },
+  {
+    "name": "Myjnia samochodowa - Bezdotykowa",
+    "address": "ul.Śnieżna 1",
+    "city": "Gdańsk",
+    "postalCode": "80-554",
+    "latitude": 54.3913378916685,
+    "longitude": 18.657803986506718
+  },
+  {
+    "name": "Myjnia Zaspa",
+    "address": "ul.Hynka 51",
+    "city": "Gdańsk",
+    "postalCode": "80-465",
+    "latitude": 54.388463479889246,
+    "longitude": 18.59536797116442
+  }
+]
