@@ -50,7 +50,7 @@ public class UserCar {
     @Max(2024)
     private int prodYear;
 
-    @OneToOne(mappedBy = "user_car")
+    @OneToOne(mappedBy = "userCar")
     private User user;
 
 }
